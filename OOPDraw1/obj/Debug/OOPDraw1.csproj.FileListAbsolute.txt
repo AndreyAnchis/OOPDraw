@@ -1,0 +1,10 @@
+D:\лабы\ISM\OOPDraw1\OOPDraw1\obj\Debug\OOPDraw1.csprojAssemblyReference.cache
+D:\лабы\ISM\OOPDraw1\OOPDraw1\obj\Debug\OOPDraw1.Form1.resources
+D:\лабы\ISM\OOPDraw1\OOPDraw1\obj\Debug\OOPDraw1.Properties.Resources.resources
+D:\лабы\ISM\OOPDraw1\OOPDraw1\obj\Debug\OOPDraw1.csproj.GenerateResource.cache
+D:\лабы\ISM\OOPDraw1\OOPDraw1\obj\Debug\OOPDraw1.csproj.CoreCompileInputs.cache
+d:\лабы\ISM\OOPDraw1\OOPDraw1\bin\Debug\OOPDraw1.exe.config
+d:\лабы\ISM\OOPDraw1\OOPDraw1\bin\Debug\OOPDraw1.exe
+d:\лабы\ISM\OOPDraw1\OOPDraw1\bin\Debug\OOPDraw1.pdb
+d:\лабы\ISM\OOPDraw1\OOPDraw1\obj\Debug\OOPDraw1.exe
+d:\лабы\ISM\OOPDraw1\OOPDraw1\obj\Debug\OOPDraw1.pdb
