@@ -8,3 +8,16 @@ d:\лабы\ISM\OOPDraw1\OOPDraw1\bin\Debug\OOPDraw1.exe
 d:\лабы\ISM\OOPDraw1\OOPDraw1\bin\Debug\OOPDraw1.pdb
 d:\лабы\ISM\OOPDraw1\OOPDraw1\obj\Debug\OOPDraw1.exe
 d:\лабы\ISM\OOPDraw1\OOPDraw1\obj\Debug\OOPDraw1.pdb
+C:\Users\User\Desktop\OOPDraw\OOPDraw1\bin\Debug\OOPDraw1.exe.config
+C:\Users\User\Desktop\OOPDraw\OOPDraw1\bin\Debug\OOPDraw1.exe
+C:\Users\User\Desktop\OOPDraw\OOPDraw1\bin\Debug\OOPDraw1.pdb
+C:\Users\User\Desktop\OOPDraw\OOPDraw1\bin\Debug\ShapesLIb.dll
+C:\Users\User\Desktop\OOPDraw\OOPDraw1\bin\Debug\ShapesLIb.pdb
+C:\Users\User\Desktop\OOPDraw\OOPDraw1\obj\Debug\OOPDraw1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\OOPDraw\OOPDraw1\obj\Debug\OOPDraw1.Form1.resources
+C:\Users\User\Desktop\OOPDraw\OOPDraw1\obj\Debug\OOPDraw1.Properties.Resources.resources
+C:\Users\User\Desktop\OOPDraw\OOPDraw1\obj\Debug\OOPDraw1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OOPDraw\OOPDraw1\obj\Debug\OOPDraw1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OOPDraw\OOPDraw1\obj\Debug\OOPDraw1.csproj.CopyComplete
+C:\Users\User\Desktop\OOPDraw\OOPDraw1\obj\Debug\OOPDraw1.exe
+C:\Users\User\Desktop\OOPDraw\OOPDraw1\obj\Debug\OOPDraw1.pdb

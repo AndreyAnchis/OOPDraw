@@ -46,6 +46,7 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             this.pictureBox1.Click += new System.EventHandler(this.PictureBox1_Click);
+            this.pictureBox1.Paint += new System.Windows.Forms.PaintEventHandler(this.PictureBox1_Paint);
             // 
             // buttonPaint
             // 
@@ -57,6 +58,7 @@
             this.buttonPaint.Text = "Промалювати";
             this.buttonPaint.UseVisualStyleBackColor = true;
             this.buttonPaint.Click += new System.EventHandler(this.ButtonPaint_Click);
+            this.buttonPaint.Paint += new System.Windows.Forms.PaintEventHandler(this.ButtonPaint_Paint);
             // 
             // buttonClear
             // 
