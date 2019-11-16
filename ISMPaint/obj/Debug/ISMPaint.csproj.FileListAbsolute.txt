@@ -1,0 +1,13 @@
+D:\лабы\ISM\ISMPaint\ISMPaint\bin\Debug\ISMPaint.exe.config
+D:\лабы\ISM\ISMPaint\ISMPaint\bin\Debug\ISMPaint.exe
+D:\лабы\ISM\ISMPaint\ISMPaint\bin\Debug\ISMPaint.pdb
+D:\лабы\ISM\ISMPaint\ISMPaint\obj\Debug\ISMPaint.csprojAssemblyReference.cache
+D:\лабы\ISM\ISMPaint\ISMPaint\obj\Debug\ISMPaint.Form1.resources
+D:\лабы\ISM\ISMPaint\ISMPaint\obj\Debug\ISMPaint.Properties.Resources.resources
+D:\лабы\ISM\ISMPaint\ISMPaint\obj\Debug\ISMPaint.csproj.GenerateResource.cache
+D:\лабы\ISM\ISMPaint\ISMPaint\obj\Debug\ISMPaint.csproj.CoreCompileInputs.cache
+D:\лабы\ISM\ISMPaint\ISMPaint\obj\Debug\ISMPaint.exe
+D:\лабы\ISM\ISMPaint\ISMPaint\obj\Debug\ISMPaint.pdb
+D:\лабы\ISM\ISMPaint\ISMPaint\bin\Debug\ShapesLIb.dll
+D:\лабы\ISM\ISMPaint\ISMPaint\bin\Debug\ShapesLIb.pdb
+D:\лабы\ISM\ISMPaint\ISMPaint\obj\Debug\ISMPaint.csproj.CopyComplete
