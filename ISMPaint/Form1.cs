@@ -176,7 +176,7 @@ namespace ISMPaint
                         MouseY2 = e.Y;
                         if (MouseX > MouseX2 && MouseY > MouseY2)
                         {
-                         graphics.DrawRectangle(new Pen(buttonColor.BackColor, 1), MouseX, MouseY, MouseX - MouseX2, MouseY - MouseY2);
+                         graphics.DrawRectangle(new Pen(buttonColor.BackColor, 1), MouseX2, MouseY2, MouseX - MouseX2, MouseY - MouseY2);
                         }
                         else if (MouseX < MouseX2 && MouseY < MouseY2)
                         {
@@ -186,7 +186,7 @@ namespace ISMPaint
                         {
                             graphics.DrawRectangle(new Pen(buttonColor.BackColor, 1), MouseX, MouseY2, Math.Abs(MouseX2 - MouseX), Math.Abs(MouseY2 - MouseY));  
                         }
-                        else if(MouseX > MouseX2 && MouseY < MouseY2)
+                        else if (MouseX > MouseX2 && MouseY < MouseY2)
                         {
                             graphics.DrawRectangle(new Pen(buttonColor.BackColor, 1), MouseX2, MouseY, Math.Abs(MouseX2 - MouseX), Math.Abs(MouseY2 - MouseY));
                         }
@@ -215,7 +215,7 @@ namespace ISMPaint
                 case Mode.DrawRectangle:
                     if (MouseX > MouseX2 && MouseY > MouseY2)
                     {
-                        Shape shape4 = new ShapesLIb.Rectangle(buttonColor.BackColor, MouseX, MouseY, MouseX - MouseX2, MouseY - MouseY2);
+                        Shape shape4 = new ShapesLIb.Rectangle(buttonColor.BackColor, MouseX2, MouseY2, MouseX - MouseX2, MouseY - MouseY2);
                         AddShape(shape4);
                     }
                     else if(MouseX < MouseX2 && MouseY < MouseY2)
@@ -223,14 +223,14 @@ namespace ISMPaint
                         Shape shape4 = new ShapesLIb.Rectangle(buttonColor.BackColor, MouseX, MouseY, MouseX2 - MouseX, MouseY2 - MouseY);
                         AddShape(shape4);
                     }
-                    else if (MouseX > MouseX2 && MouseY < MouseY2)
-                    {
-                        Shape shape4 = new ShapesLIb.Rectangle(buttonColor.BackColor, MouseX2, MouseY, Math.Abs(MouseX2 - MouseX), Math.Abs(MouseY2 - MouseY));
-                        AddShape(shape4);
-                    }
                     else if (MouseX < MouseX2 && MouseY > MouseY2)
                     {
                         Shape shape4 = new ShapesLIb.Rectangle(buttonColor.BackColor, MouseX, MouseY2, Math.Abs(MouseX2 - MouseX), Math.Abs(MouseY2 - MouseY));
+                        AddShape(shape4);
+                    }
+                    else if (MouseX > MouseX2 && MouseY < MouseY2)
+                    {
+                        Shape shape4 = new ShapesLIb.Rectangle(buttonColor.BackColor, MouseX2, MouseY, Math.Abs(MouseX2 - MouseX), Math.Abs(MouseY2 - MouseY));
                         AddShape(shape4);
                         
                     } 
